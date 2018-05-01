@@ -1,0 +1,17 @@
+p{
+    color:teal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li{color:#ce1837}
+
+.yellow
+    {background: yellow; 
+    color: black}
+
+.blue{background: blue;
+    color: white;}
+
+img{
+    width: 250px
+}
