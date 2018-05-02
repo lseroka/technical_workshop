@@ -59,6 +59,14 @@
   // Magnific popup calls
   $('.popup-gallery').magnificPopup({
     delegate: 'a',
+    items:[{title: 'Harvard'},
+      {title: 'Clements'}, 
+      {title:'Parfet Family'},
+      {title: 'THF'},
+      {title: 'Grimes'},
+      {title: 'SIP'} 
+
+    ],
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     mainClass: 'mfp-img-mobile',
